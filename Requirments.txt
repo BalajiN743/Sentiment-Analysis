@@ -1,0 +1,6 @@
+streamlit
+Sci-kit learn
+nltk
+gensim
+pickle
+re
